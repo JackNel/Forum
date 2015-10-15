@@ -10,6 +10,7 @@ public class Forum {
 
     }//main method
 
+
     static String readFile(String fileName) {
         File f = new File(fileName);
         try {
